@@ -22,7 +22,7 @@ config==0.4.0
 configparser==3.7.1
 constantly==15.1.0
 containers==0.0.4
-cryptography==2.5
+cryptography==3.2
 cssselect==1.0.3
 cycler==0.10.0
 dask==1.1.0
